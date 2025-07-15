@@ -3,7 +3,7 @@
 This is a simple and responsive calculator web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ---
-![Calculator UI](image/demo.png)
+![Calculator UI](demo.png)
 
 ## 📌 Features
 
